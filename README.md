@@ -13,5 +13,51 @@ There are two unique users of the Hatsune Miku product. The first is the obvious
 
 The stakeholders for the Hatsune Miku product is Crypton. Who is the company that developed Hatsune Miku and built a major  business plan around the distribution and sells of the Hatsune Miku characters and performance. This is one of the major stakeholders in the product. Another big stakeholder are the different venues that host these different preformances. They need the product to produce a great show for them to be able to sell large amounts of tickets. Last is the local musicains that play along with the show. The video showed that the vocals are done by the computer but the background music is played live. The musicians need to have a constistant timing to be able to play correctly. Plus this allows them to display their talet. If the show is bad then repuation will follow.
 
- 
+## Concert
+Hatsune Miku Use Cases
+|1. Use Case|Development of sound|
+|2. Actors| Development Team, database|
+|3. Type| Primary|
+|4. Description| Building of the sound that is played for the concerts. Building the database that allows for the transportation of the music between different venues. Making sure the system keeps the time correct for both sound and music played in the backgound|
 
+|1. Use Case|Development of visual|
+|2. Actors| Development Team, database|
+|3. Type| Primary|
+|4. Description| Build the visual moves and choreograph these sequences based on the way the singer sings and moves about the stage. Second is to make sure all of the visual keys are corect and that nothing looks out of place.|
+
+|1. Use Case|Develop protable music|
+|2  Actors|Development,database,deployment|
+|3. Type| Secondary|
+|4. Description| Ability to distrubite the music without having to put on a full preformance. Allowing the music to be downloaded or allow the user access to listen to music from database|
+ 
+Audience
+|1. Use Case|watch show|
+|2. Actors| Development team, proforamce team, audience|
+|3. Type| Secondary|
+|4. Description| When the audience showes up they want to watch the show. They are expecting a good preformance base on the development team and the proforance team. If these have errors the show will have new errors.
+
+|1. Use Case|review show|
+|2. Actors|Audience|
+|3. Type|Primary|
+|4. Desription| Review the show and help both development and preformance team improve the product. What did they like what didn't they like|
+
+|1. Use Case|Listen to recorded Music|
+|2. Actors|Database, Audience|
+|3. Type| Secondary|
+|4. Description| Being able to listen to the music without attending the show. Listening to all of the different songs while not attending a concert.|
+
+Concert Organizer
+|1. Use Case|Visual check|
+|2. Actors|concert Organizer,Hatsune Miku|
+|3. Type| Primary|
+|4. Description| Make sure the video production part of the system is online and running correctly. Making sure the video is correctly outputing at the right time. Also that all of the screens are correctly sequenced together|
+
+|1. Use Case|Sound Check|
+|2. Actors|concert Organizer,Hatsune Miku|
+|3. Type|Primary|
+|4. Description| Make sure the audio system is correctly outputing the sound correctly and in the right frequency and amplitude. Making sure a good preformance can be heard|
+
+|1. Use Case| Timing Check|
+|2. Actors|concert Organizer|
+|3. Type| Primary|
+|4. Description| The last part of this product is to make sure the product is correctly time to each key. If the time becomes out of sync is will delude the product|
