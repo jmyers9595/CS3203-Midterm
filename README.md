@@ -61,3 +61,10 @@ Concert Organizer
 |2. Actors|concert Organizer|
 |3. Type| Primary|
 |4. Description| The last part of this product is to make sure the product is correctly time to each key. If the time becomes out of sync is will delude the product|
+
+ 3D Concert
+
+|1. Use Case| Backstage dancer|
+|2. Actors| visual, production|
+|3. Type| Primary|
+|4. Description| Add background dancers and allow for the main singer or character ability to move about the stage. As in real concerts the singer does not stand or walk in just the same area. The singer will move about the stage and interact with the audience. This will bring the concert to a more realistic concert and less computer graphics|
